@@ -151,10 +151,9 @@ psql -U postgres -f sql/02_data_import.sql
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Nguyen Trong Hieu]**  
 Data Analyst | SQL · Power BI · Python  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
-
+https://github.com/Hieunguyen1892
 ---
 
 *Dataset is synthetic and generated for educational/portfolio purposes only.*
